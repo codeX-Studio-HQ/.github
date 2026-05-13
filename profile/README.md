@@ -10,6 +10,5 @@ Our Official Site: [codeX Studio](https://codex-studio-hq.netlify.app/)
 <p align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeX-Studio-HQ&theme=github_dark)
-
 </p>
 
