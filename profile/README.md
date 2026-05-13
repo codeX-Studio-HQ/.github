@@ -5,10 +5,3 @@
 ### We are an independent developer studio creating creative software projects and games. We develop physics simulations, interactive experiments and innovative web applications.  
 Our Official Site: [codeX Studio](https://codex-studio-hq.netlify.app/)
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-![codeX Studio Stats](https://github-readme-stats-git-masterrstaa-p-anuraghazras-projects.vercel.app/api?username=codeX-Studio-HQ&show_icons=true&theme=radical)
-</p>
-
