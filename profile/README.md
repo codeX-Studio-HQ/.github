@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Phantomware_TP_Logo.png" alt="PhantomwareLogo" width="430"/>
+  <img src="./Phantomware_TP_Logo.png" alt="PhantomwareLogo" width="380"/>
 </p>
 
 ### We are an independent developer studio creating creative software projects and games. We develop physics simulations, interactive experiments and innovative web applications.  
